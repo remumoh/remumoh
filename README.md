@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+👨‍💻 Computer Science Student | Aspiring Developer | Software Enthusiast  
+🚀 Passionate about coding, problem-solving, and building software solutions.  
+📚 Currently studying at Hawassa University.  
+🌱 Always learning and experimenting with new technologies.
 <!--
 **remumoh/remumoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
